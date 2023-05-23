@@ -1,8 +1,8 @@
 ### Hello world, I'm Aymane 👋
  
-<img align="right" alt="GIF" src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" height="300"  />
+<img align="right" alt="JPG" src="data_skills.jpg" height="300"  />
 
-## I'm a Mathematician & Machine Learning Engineer !
+I'm a Data Scientist & Machine Learning Engineer !
 - You can find my public **works** **[here]**
 - Passionate about **Science** 🚀, **Travel** 🛫 and **Deep Learning** 🧠
 
