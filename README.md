@@ -1,6 +1,4 @@
 ### Hello world, I'm Aymane 👋
- 
-<img align="right" alt="JPG" src="data_skills.jpg" height="300"  />
 
 I'm a Data Scientist & Machine Learning Engineer !
 - You can find my public **works** **[here]**
